@@ -1,5 +1,4 @@
 # File-ordering
-manage files from live microscopy
 I have a lot of files/images after 24h of microscope live imaging. It's very annoying to manage the well, position manually, so I wrote these little functions.
 
 The first one MakeFolders.sh is for making a folder for each well, each position.
